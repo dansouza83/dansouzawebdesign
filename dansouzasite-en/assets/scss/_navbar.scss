@@ -1,0 +1,9 @@
+@import "./variables";
+
+#mainNav {
+  background-color: transparent;
+}
+
+#mainNav.navbar-shrink {
+    background-color: $transparentPurple;
+}
